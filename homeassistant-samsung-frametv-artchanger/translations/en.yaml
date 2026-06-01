@@ -1,0 +1,7 @@
+configuration:
+  tv:
+    name: TV IP address(es)
+    description: Comma-separated list of Samsung The Frame TV IP addresses
+  automation_token:
+    name: Automation token
+    description: Bearer token for calling /api/automation/random from Home Assistant automations
